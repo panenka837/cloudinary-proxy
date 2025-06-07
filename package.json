@@ -1,0 +1,15 @@
+{
+    "name": "cloudinary-proxy",
+    "version": "1.0.0",
+    "main": "cloudinary-proxy.js",
+    "type": "module",
+    "scripts": {
+      "start": "node cloudinary-proxy.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "axios": "^1.6.8",
+      "dotenv": "^16.3.1",
+      "cors": "^2.8.5"
+    }
+  }
