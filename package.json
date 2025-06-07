@@ -2,8 +2,7 @@
     "name": "cloudinary-proxy",
     "version": "1.0.0",
     "main": "cloudinary-proxy.js",
-    "type": "module",
-    "scripts": {
+      "scripts": {
       "start": "node cloudinary-proxy.js"
     },
     "dependencies": {
